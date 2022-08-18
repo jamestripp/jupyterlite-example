@@ -1,5 +1,7 @@
 # JupyterLite Demo
 
+Data contained in this test repository has been taken from jakevdp/sklearn_tutorial
+
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
